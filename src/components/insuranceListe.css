@@ -1,0 +1,22 @@
+
+
+.my-insurance-detail {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.container-insurance {
+    flex-wrap: wrap
+}
+
+h1{
+    size: 20px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+
+}
